@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="387077cf-9416-40cd-85cc-a590476f5eac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClientProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="387077cf-9416-40cd-85cc-a590476f5eac" name="Changes" comment="Add solution for first task">
+      <change afterPath="$PROJECT_DIR$/src/TestMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ClientProgram.executor": "Run",
+    "Application.TestMax.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -74,11 +77,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733865895400</updated>
-      <workItem from="1733865896390" duration="567000" />
+      <workItem from="1733865896390" duration="888000" />
     </task>
+    <task id="LOCAL-00001" summary="Add solution for first task">
+      <option name="closed" value="true" />
+      <created>1733866638493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733866638493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add solution for first task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution for first task" />
   </component>
 </project>
